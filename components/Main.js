@@ -24,6 +24,7 @@ class Main extends React.Component {
           <span className="image main"><img src="/static/images/pic02.jpg" alt="" /></span>
           <p>Some of our works</p>
           <p>Envases Take Away</p>
+          <p>E-commerce development ans SEO optimization.</p>
           {close}
         </article>
 
