@@ -23,8 +23,16 @@ class Main extends React.Component {
           <h2 className="major">Works</h2>
           <span className="image main"><img src="/static/images/pic02.jpg" alt="" /></span>
           <p>Some of our works</p>
+          <div>
+            <div>
           <p>Envases Take Away</p>
           <p>E-commerce development ans SEO optimization.</p>
+          </div>
+          <div>
+            <p>Le PArfum</p>
+            <p>Corporate Site</p>
+          </div>
+          </div>
           {close}
         </article>
 
