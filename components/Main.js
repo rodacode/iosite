@@ -26,10 +26,10 @@ class Main extends React.Component {
           <div>
             <div>
           <p>Envases Take Away</p>
-          <p>E-commerce development ans SEO optimization.</p>
+          <p>E-commerce development and SEO optimization.</p>
           </div>
           <div>
-            <p>Le PArfum</p>
+            <p>Le Parfum</p>
             <p>Corporate Site</p>
           </div>
           </div>
